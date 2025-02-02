@@ -1,6 +1,5 @@
 from distutils.core import setup
 
-iday = datetime.date.today().strftime("%Y.%-m.%-d")
 setup(
     name="autoartists",
     version="0.1",
